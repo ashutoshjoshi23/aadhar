@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is F88F-BAE8
+File Not Found
+ Volume in drive C is OS
+ Volume Serial Number is F88F-BAE8
+
+ Directory of C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio
+
+21-11-2024  22:31    <DIR>          NodeJs
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+               0 File(s)              0 bytes
+               1 Dir(s)  54,771,232,768 bytes free
