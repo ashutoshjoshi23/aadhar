@@ -158,6 +158,16 @@ All visualizations generated at **300 DPI** for professional quality:
 - `demographic_analysis_dashboard.png`
 - `uidai_dashboard_perfect.html` (Interactive)
 
+<img width="5137" height="6867" alt="merged_aadhaar_analysis_dashboard" src="https://github.com/user-attachments/assets/d2123f0a-e4ff-49d3-b439-e5568e98bc85" />
+<img width="4769" height="3543" alt="merged_aadhaar_additional_insights" src="https://github.com/user-attachments/assets/71577a87-1266-492c-9d7d-656b2f79b30b" />
+<img width="5064" height="6867" alt="demographic_analysis_dashboard" src="https://github.com/user-attachments/assets/9b3d1e48-fe01-40ba-961a-d3246ac3b51c" />
+<img width="4759" height="3542" alt="demographic_additional_insights" src="https://github.com/user-attachments/assets/e034b801-d523-44d2-9e4a-057bd90254cd" />
+<img width="5086" height="6867" alt="biometric_analysis_dashboard" src="https://github.com/user-attachments/assets/abc62fee-bf64-4b1b-bc25-3dabcb0c9230" />
+<img width="4761" height="3542" alt="biometric_additional_insights" src="https://github.com/user-attachments/assets/3cfe6a14-62dc-471b-a0fa-7e45dc2cb791" />
+<img width="5094" height="6867" alt="aadhaar_analysis_dashboard" src="https://github.com/user-attachments/assets/c4c3b555-a64c-4804-a117-8a861cef7a06" />
+<img width="4770" height="3543" alt="aadhaar_additional_insights" src="https://github.com/user-attachments/assets/07009148-ed4c-4e9e-ae5c-e090b4862c4b" />
+
+
 ---
 
 ## 🎯 Strategic Recommendations
