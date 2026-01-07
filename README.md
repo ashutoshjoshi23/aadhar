@@ -65,8 +65,8 @@ uidai-hackathon-code/
 
 ```bash
 # Clone repository
-git clone https://github.com/ashutoshjoshi23/uidai-hackathon-2025.git
-cd uidai-hackathon-2025
+git clone https://github.com/ashutoshjoshi23/aadhar.git
+cd uidai-hackathon-2026
 
 # Install dependencies
 pip install -r requirements.txt
