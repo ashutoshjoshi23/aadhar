@@ -220,7 +220,7 @@ This project was created for UIDAI Hackathon 2026. All data provided by UIDAI.
 ## 📧 Contact
 
 For questions or collaboration:
-- GitHub: *https://github.com/ashutoshjoshi23/aadhar*
+- GitHub: *https://github.com/ashutoshjoshi23*
 - Email: *ashutoshjoshi630@gmail.com*
 
 ---
