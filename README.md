@@ -1,4 +1,4 @@
-# UIDAI Hackathon 2025 - Aadhaar Ecosystem Intelligence Platform
+# UIDAI Hackathon 2026 - Aadhaar Ecosystem Intelligence Platform
 
 ## 🏆 Project Overview
 
