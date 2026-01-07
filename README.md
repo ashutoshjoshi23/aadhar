@@ -187,7 +187,7 @@ All visualizations generated at **300 DPI** for professional quality:
 
 ## 👥 Contributors
 
-- **Team Name**: [Your Team Name]
+- **Team Leader Name**: Ashutosh Joshi 
 - **Hackathon**: UIDAI Hackathon 2025
 - **Date**: January 2026
 
@@ -195,7 +195,7 @@ All visualizations generated at **300 DPI** for professional quality:
 
 ## 📄 License
 
-This project was created for UIDAI Hackathon 2025. All data provided by UIDAI.
+This project was created for UIDAI Hackathon 2026. All data provided by UIDAI.
 
 ---
 
@@ -210,17 +210,10 @@ This project was created for UIDAI Hackathon 2025. All data provided by UIDAI.
 ## 📧 Contact
 
 For questions or collaboration:
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: *https://github.com/ashutoshjoshi23/aadhar*
+- Email: *ashutoshjoshi630@gmail.com*
 
 ---
 
-## 🔗 Links
-
-- [Interactive Dashboard](./uidai_dashboard_perfect.html)
-- [Complete Report](./UIDAI_Complete_Enhanced_Report.docx)
-- [Submission Document](./UIDAI_Hackathon_Submission_Document.docx)
-
----
 
 **⭐ If you find this project useful, please give it a star!**
