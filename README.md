@@ -3,6 +3,7 @@
 ## 🏆 Project Overview
 
 Comprehensive analysis of India's Aadhaar ecosystem analyzing **124.5M transactions** across **4.94M records** from three critical systems: Enrollment, Biometric, and Demographic Updates.
+Detailed Report: https://drive.google.com/file/d/1tAfUtsT_U9NUcLcMbLLp--uAxheL6in-/view?usp=sharing
 
 ### Key Findings
 - **Lifecycle Segmentation Pattern**: Enrollment (65% children), Biometric (50-50 balance), Demographic (90% adults)
